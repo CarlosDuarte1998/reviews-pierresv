@@ -1,6 +1,7 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-
+import { useLenis } from '@/composables/useLenis'
+useLenis({ duration: 1.5, smooth: true });
 </script>
 
 <template>

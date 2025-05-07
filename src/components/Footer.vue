@@ -1,5 +1,5 @@
 <template>
-<footer class="bg-gray-100">
+<footer class="border-t border-gray-200" style="background-color: #fafafa;">
   <div class="mx-auto max-w-5xl px-4 py-10 sm:px-6 lg:px-8">
     <div class="flex justify-center text-teal-600">
       <img src="../images/PierreCardin.png" alt="" class="w-3/8" />

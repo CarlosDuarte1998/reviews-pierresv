@@ -14,7 +14,7 @@ export const  listVideos = [
             },
             {
                 title: 'Reseña de la Colección Otoño 2025',
-                subtitle: 'Descubre lo que opinan los expertos sobre la colección de otoño.',
+                subtitle: 'Descubre lo que opinan los expertos sobre la  colección de otoño.',
                 url: 'https://www.youtube.com/embed/sFVrXN3KZbo',
             },
             {

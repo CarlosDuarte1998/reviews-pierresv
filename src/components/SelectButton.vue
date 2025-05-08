@@ -17,7 +17,7 @@ watch(selectActive, (newValue) => {
                 }}</button>
         </template>
     </div>
-    <div class="mt-7 grid grid-cols-3 gap-6">
+    <div class="mt-7 grid sm:grid-cols-2 gap-6">
         <div class="rounded-lg bg-card text-card-foreground overflow-hidden border-0 shadow-lg">
             <div class="p-0">
                 <div class="aspect-video w-full"><iframe src="https://www.youtube.com/embed/19g66ezsKAg"
@@ -31,6 +31,8 @@ watch(selectActive, (newValue) => {
                 </div>
             </div>
         </div>
+
+       
 
         <template v-for="(group, index) in listVideos" :key="index">
             <template v-if="selectActive === index">

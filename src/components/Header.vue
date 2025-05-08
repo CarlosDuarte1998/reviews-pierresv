@@ -17,7 +17,7 @@
             <ul class="hidden md:flex gap-4">
                 <!-- <li><a href="#" class="text-gray-800 hover:text-gray-600">Inicio</a></li>
                 <li><a href="#" class="text-gray-800 hover:text-gray-600">Servicios</a></li> -->
-                <li><a href="https://www.pierrecardin.com.sv/" class="bg-black px-3 py-2 rounded-lg text-white flex gap-2">Comprar<img src="../images/bag-shopping.svg" alt="" srcset="" class="w-4 invert-100"></a></li>
+                <li><a href="https://www.pierrecardin.com.sv/" class="bg-black px-3 py-2 rounded-lg text-white flex gap-2 uppercase">Comprar<img src="../images/bag-shopping.svg" alt="" srcset="" class="w-4 invert-100"></a></li>
 
 
             </ul>
